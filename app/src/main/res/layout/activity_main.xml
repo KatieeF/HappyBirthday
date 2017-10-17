@@ -31,7 +31,7 @@
         android:id="@+id/name_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="XXX"
+        android:text="XXXX"
         android:textSize="55dp"
         android:textColor="#ffffff"
         android:textAppearance="?android:textAppearanceMedium"
